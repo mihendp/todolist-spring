@@ -6,5 +6,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="lombok" level="project" />
+    <orderEntry type="library" name="h2-2.2.224" level="project" />
+    <orderEntry type="library" name="bcrypt-0.10.2-javadoc" level="project" />
   </component>
 </module>
